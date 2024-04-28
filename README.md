@@ -1,6 +1,6 @@
 # PythonStarter
 
-Execute local Python scripts
+Execute local Python scripts. See current Freeware version of PythonStarter at [dseichter.de](https://www.dseichter.de/python-starter/).
 
 ## Badges
 
